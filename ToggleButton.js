@@ -1,4 +1,4 @@
-Ext.define("AmproWireless.ux.ToggleButton", {
+Ext.define("MyApp.ux.ToggleButton", {
     extend: "Ext.Button",
     xtype: 'uxtogglebutton',
 
